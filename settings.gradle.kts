@@ -19,5 +19,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "ComposeTemplate"
+rootProject.name = "CI_CD_Demo"
 include(":app")
